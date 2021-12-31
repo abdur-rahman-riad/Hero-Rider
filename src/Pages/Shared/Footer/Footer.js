@@ -5,7 +5,7 @@ import logo from '../../../image/logo.PNG';
 const Footer = () => {
     return (
         <div className="bg-light pt-5 pb-2 mt-5">
-            <Container>
+            <Container style={{ marginBottom: "-20px" }}>
                 <div className="row gy-5 align-items-center">
                     <div className="col-md-4 text-center">
                         <img src={logo} width="180px" height="50px" alt="" />
