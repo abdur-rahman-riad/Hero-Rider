@@ -8,7 +8,7 @@ const Footer = () => {
             <Container style={{ marginBottom: "-20px" }}>
                 <div className="row gy-5 align-items-center">
                     <div className="col-md-4 text-center">
-                        <img src={logo} width="180px" height="50px" alt="" />
+                        <img src={logo} width="180px" height="45px" style={{ borderRadius: "5px" }} alt="" />
                     </div>
 
                     <div className="col-md-4 text-center">

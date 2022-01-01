@@ -11,7 +11,7 @@ const Header = () => {
                     <Navbar.Brand as={Link} to="/">
                         <img src={logo}
                             width="120"
-                            height="40"
+                            height="35"
                             style={{ borderRadius: "5px" }}
                             alt="" />
                     </Navbar.Brand>
