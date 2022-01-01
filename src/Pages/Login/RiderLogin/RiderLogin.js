@@ -3,7 +3,7 @@ import React from 'react';
 const RiderLogin = () => {
     console.log("Rider Login");
     return (
-        <div>
+        <div className='container'>
             <h3>Rider Login</h3>
         </div>
     );

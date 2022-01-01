@@ -3,7 +3,7 @@ import React from 'react';
 const AdminLogin = () => {
     console.log("Admin Login");
     return (
-        <div>
+        <div className='container'>
             <h3>Admin Login</h3>
         </div>
     );
